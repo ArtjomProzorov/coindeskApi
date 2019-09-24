@@ -27,6 +27,6 @@ If the currency code provided is not supported by the API, a message should info
 
 ## Authors
 
-* **Artjom Prozorov** - [PurpleBooth](https://github.com/PurpleBooth)
+* **Artjom Prozorov** - [PurpleBooth](https://github.com/ArtjomProzorov)
 
 
